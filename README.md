@@ -61,7 +61,7 @@ I believe strong industrial network engineers need more than theoretical network
 
 ## Network Engineering Development
 
-**[Network Engineering Portfolio](https://github.com/ryan-sharpnack/ryan-sharpnack/blob/network-engineering-portfolio)**
+**[Network Engineering Portfolio](https://github.com/ryan-sharpnack/network-engineering-portfolio)**
 
 My structured network engineering development work is temporarily on hold while I focus on returning to the IT industry.
 
